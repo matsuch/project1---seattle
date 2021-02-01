@@ -27,7 +27,7 @@ There are one notebook available here to show case work related to the above que
 
 ## Results<a name="results"></a>
 
-The main findings of the code you can find in here.
+The main findings of the code you can find in [here](https://matsuch.medium.com/can-you-guess-the-best-time-to-visit-seattle-24025ab7da70)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
