@@ -12,22 +12,22 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Seattle AirBNB Data from 2016 to better understand:
+For this project, I was interestested in using Seattle Airbnb Data from 2016 to better understand:
 
-1. Which period of the year has the highest number of listings?
-2. What are the busiest times of the year to visit Seattle? By how much do prices spike?
+1. Which period of the year has the highest number of listings? By how much do prices spike?
+2. What are the factors that most impact the price?
 3. What are the cheapest and most expensive neighborhoods?
-4. What are the factors that most impact the price?
+4. What kind of accommodations do may I book?
 
 You can find the full set of files related to anaylises in: https://www.kaggle.com/airbnb/seattle/data.  
 
 ## File Descriptions <a name="files"></a>
 
-INCLUIR INFORMAÇÕES DOS ARQUIVOS
+There are one notebook available here to show case work related to the above questions. The notebook is exploratory and it's look to analyse the Airbnb data from 2016. There is an addition .py file with the same code writen. 
 
 ## Results<a name="results"></a>
 
-INCLUIR AS PRINCIPAIS DESCOBERTAS E O LINK DO POST DO MEDIUM
+The main findings of the code you can find in here.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
