@@ -31,4 +31,4 @@ The main findings of the code you can find in [here](https://matsuch.medium.com/
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to AirBNB for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).  Alse, thank you the StackOverFlow community for all the help! Otherwise, feel free to use the code here as you would like! 
+Must give credit to AirBNB for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).  Alse, thank you the StackOverFlow community and Udacity professors for all the help! Otherwise, feel free to use the code here as you would like! 
