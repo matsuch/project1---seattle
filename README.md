@@ -23,7 +23,7 @@ You can find the full set of files related to anaylises in: https://www.kaggle.c
 
 ## File Descriptions <a name="files"></a>
 
-There are one notebook available here to show case work related to the above questions. The notebook is exploratory and it's look to analyse the Airbnb data from 2016. There is an addition .py file with the same code writen.<p>**File Changes:**</p>
+There are one notebook available here to show case work related to the above questions. The notebook is exploratory and it's look to analyse the Airbnb data from 2016. There is an addition .py file with the same code writen.
 
 ## Results<a name="results"></a>
 
