@@ -151,6 +151,8 @@ print('Unique values listing_id', df['listing_id'].nunique()) #counting how many
 #Looking at the data we can see that the same listing sometimes have price and sometimes don't.
 #I assumed that the listing should't vary its price to much
 #so grouped the listing_id and filed the nan values with that listing mean price.
+
+df['price'] = df['price'].str.replace("[$, ]", "").astype("float") #replacing $ by "" and converting price column into float
   
 df['price'] = df['price'].fillna(df.groupby(['listing_id'])['price'].transform('mean')) #fillnan prices with the mean by grouping based on the listing_id
 
@@ -158,9 +160,7 @@ print('NaN Price Values representative: ', df['Price'].isnull().sum()/len(df)*10
 
 #Droping the remaning NaN Price values because represents only 2.48% of the df size
 
-df = df.dropna(subset=['price'], inplace=True) #drop all listings with no price
-
-df['price'] = df['price'].str.replace("[$, ]", "").astype("float") #replacing $ by "" and converting price column into float
+df = df.dropna(subset=['price']) #drop all listings with no price
 
 df.head()
 
